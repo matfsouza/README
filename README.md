@@ -20,7 +20,7 @@ I seek whenever possible to share my knowledge in programming and I am always lo
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
-<img align= "right" width= "250" src= "https://64.media.tumblr.com/a3f76b4f3ac0632ee6da4f9b36caa1f4/fd918c7bea7b4c78-15/s540x810/c7dd3941a68f619ba6a4caea363a52464d15358d.gif"/>
+<img align= "center" width= "250" src= "https://64.media.tumblr.com/a3f76b4f3ac0632ee6da4f9b36caa1f4/fd918c7bea7b4c78-15/s540x810/c7dd3941a68f619ba6a4caea363a52464d15358d.gif"/>
 
 **Developer Tools**
 
