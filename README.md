@@ -32,7 +32,7 @@ I seek whenever possible to share my knowledge in programming and I am always lo
 
 **Contact Me**
 
-[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/matfsouza/matfsouza/)
+[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/matfsouza/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ferreira-de-souza-303b43264/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/444ths/)
 
